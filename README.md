@@ -1,6 +1,6 @@
 # String Extractor
 
-** ## English:**
+## **English:**
 **Description:**
 This program, "Simple String Extractor Made in Ruby," is a powerful tool for extracting specific strings from Windows executable files (.exe). It is written in the Ruby programming language and is designed to simplify the process of analyzing executable files for embedded strings. Whether you're a security analyst, software developer, or just curious about the content of an .exe file, this tool can help you uncover hidden information within such files.
 
