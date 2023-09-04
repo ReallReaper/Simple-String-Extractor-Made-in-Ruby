@@ -49,7 +49,7 @@ Este es mi primer programa diseñado en Ruby, y todavía está en desarrollo. No
 # **Примечание:**
 Это моя первая программа, разработанная на Ruby, и она находится в процессе разработки. Я не уверен, буду ли я продолжать работу над этим проектом или внесу дополнительные улучшения. Ваши отзывы и предложения очень важны!
 
-**English:**
+## **English:**
 **Donations:**
 If you find this program useful and would like to support its development, you can make a donation using the following cryptocurrency addresses:
 
@@ -61,7 +61,7 @@ Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4
 
 Litecoin: LVKB8GcNqZa8zEAAcz5Yn9WTAEHeFdobp5
 
-**Español:**
+## **Español:**
 **Donaciones:**
 Si encuentras útil este programa y deseas apoyar su desarrollo, puedes realizar una donación utilizando las siguientes direcciones de criptomonedas:
 
@@ -73,7 +73,7 @@ Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4
 
 Litecoin: LVKB8GcNqZa8zEAAcz5Yn9WTAEHeFdobp5
 
-**Русский (Ruso):**
+## **Русский (Ruso):**
 **Пожертвования:**
 Если вам нравится эта программа и вы хотели бы поддержать ее разработку, вы можете сделать пожертвование, используя следующие адреса криптовалют:
 
