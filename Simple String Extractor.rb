@@ -1,3 +1,44 @@
+# Arte ASCII del murciélago
+system("mode con: cols=150")
+system("mode con: lines=40")
+murcielago_ascii = <<MURCIELAGO
+                                .       .
+                 _.-'\\          |\\-"""-/|          /`-._
+             _.-`     `.       /         \\       ,'     '-._
+          _.'           `._   ;   \\   /   ;   _,'           `._
+        .'                 `-.:           :.-'                 `.
+      ,`                           , ,                           '.
+    ,`                                                             '.
+   /                                                                 \\
+  :,-"""-,                                                     ,-"""-,:
+ /'       `                                                   '       '\\
+          :                                                   :
+          : ,-"""-,                                   ,-"""-, :
+          /'       `.       _.-'         '-._       .'       '\\
+                     \\    .`    :       :    '.    /
+                      . .`       :     :       '. .
+                      :/          :   :          \\:
+                      :            :
+                                    :
+MURCIELAGO
+
+# Texto debajo del murciélago
+texto_debajo = <<TEXTO
+██████   █████  ████████     ███████ ████████ ██████  ██ ███    ██  ██████      ███████ ██ ███    ██ ██████  ███████ ██████  
+██   ██ ██   ██    ██        ██         ██    ██   ██ ██ ████   ██ ██           ██      ██ ████   ██ ██   ██ ██      ██   ██ 
+██████  ███████    ██        ███████    ██    ██████  ██ ██ ██  ██ ██   ███     █████   ██ ██ ██  ██ ██   ██ █████   ██████  
+██   ██ ██   ██    ██             ██    ██    ██   ██ ██ ██  ██ ██ ██    ██     ██      ██ ██  ██ ██ ██   ██ ██      ██   ██ 
+██████  ██   ██    ██        ███████    ██    ██   ██ ██ ██   ████  ██████      ██      ██ ██   ████ ██████  ███████ ██   ██ 
+                                                                                                                             
+                                                                                                                             
+TEXTO
+
+# Muestra el arte ASCII personalizado en rojo
+puts "\e[31m" + murcielago_ascii + "\e[0m"
+
+# Muestra el texto debajo del murciélago
+puts texto_debajo
+
 # Solicitar al usuario el camino (path) del archivo .exe
 puts "Ingresa el camino completo del archivo .exe a analizar (por ejemplo, C:\\Windows\\console.exe):"
 path_archivo_exe = gets.chomp
@@ -17,7 +58,6 @@ begin
     "Object",
     "System.Net",
     "WebClient",
-
   ]
 
   # Crear un archivo de texto en el escritorio y guardar las cadenas en él
@@ -26,7 +66,7 @@ begin
 
   File.open(archivo_resultado, "w") do |archivo_txt|
     archivo_txt.puts("Cadenas encontradas en el archivo #{path_archivo_exe}:\n\n")
-    
+
     # Buscar y escribir las cadenas específicas
     cadenas_a_buscar.each do |cadena|
       contenido_binario.scan(/#{Regexp.escape(cadena)}.*/) do |match|
