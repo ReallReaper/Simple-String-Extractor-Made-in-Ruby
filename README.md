@@ -48,3 +48,39 @@ Este es mi primer programa diseñado en Ruby, y todavía está en desarrollo. No
 **Русский (Ruso):**
 # **Примечание:**
 Это моя первая программа, разработанная на Ruby, и она находится в процессе разработки. Я не уверен, буду ли я продолжать работу над этим проектом или внесу дополнительные улучшения. Ваши отзывы и предложения очень важны!
+
+**English:**
+**Donations:**
+If you find this program useful and would like to support its development, you can make a donation using the following cryptocurrency addresses:
+
+Monero: 46GrTbi2tQb5g3X6vuzNxqASNDDR7x72V1VsVRcXqAYuL3VUYrm7q1ua33fS6eaZceY6qiSCpF45DPShVpdRXjPyQXmGPXE
+
+Bitcoin: bc1qwn790a30545ucmlwhp3t040e48wl5pnsdwzupe
+
+Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4
+
+Litecoin: LVKB8GcNqZa8zEAAcz5Yn9WTAEHeFdobp5
+
+**Español:**
+**Donaciones:**
+Si encuentras útil este programa y deseas apoyar su desarrollo, puedes realizar una donación utilizando las siguientes direcciones de criptomonedas:
+
+Monero: 46GrTbi2tQb5g3X6vuzNxqASNDDR7x72V1VsVRcXqAYuL3VUYrm7q1ua33fS6eaZceY6qiSCpF45DPShVpdRXjPyQXmGPXE
+
+Bitcoin: bc1qwn790a30545ucmlwhp3t040e48wl5pnsdwzupe
+
+Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4
+
+Litecoin: LVKB8GcNqZa8zEAAcz5Yn9WTAEHeFdobp5
+
+**Русский (Ruso):**
+**Пожертвования:**
+Если вам нравится эта программа и вы хотели бы поддержать ее разработку, вы можете сделать пожертвование, используя следующие адреса криптовалют:
+
+Monero: 46GrTbi2tQb5g3X6vuzNxqASNDDR7x72V1VsVRcXqAYuL3VUYrm7q1ua33fS6eaZceY6qiSCpF45DPShVpdRXjPyQXmGPXE
+
+Bitcoin: bc1qwn790a30545ucmlwhp3t040e48wl5pnsdwzupe
+
+Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4
+
+Litecoin: LVKB8GcNqZa8zEAAcz5Yn9WTAEHeFdobp5
